@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "project_name": "my project",
+    "start_date": "2001-01-14",
+    "estimated_completion_date": "2100-01-14",
+    "current_status": "Mid 20s"
+  },
+  {
+    "id": 1,
+    "project_name": "my project",
+    "start_date": "2001-01-14",
+    "estimated_completion_date": "2100-01-14",
+    "current_status": "Mid 20s"
+  },
+  {
+    "id": 2,
+    "project_name": "my project",
+    "start_date": "2001-01-14",
+    "estimated_completion_date": "2100-01-14",
+    "current_status": "Mid 20s"
+  }
+]
